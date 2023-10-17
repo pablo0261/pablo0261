@@ -1,16 +1,16 @@
 <br>
 <p align="center">
-  <strong style="font-size: 24px;">Hello, I'm Pablo, and I'm currently residing in Brazil. I'm pursuing my full-stack development education at 'SoyHenry.'</strong>
+  <strong style="font-size: 28px;">Hello, I'm Pablo, and I'm currently residing in Brazil. I'm pursuing my full-stack development education at 'SoyHenry.'</strong>
 </p>
 <br>
 <p align="center">
-  <strong style="font-size: 20px;">Welcome to my GitHub space, where you can explore some of the tools I've mastered and the projects I've successfully completed.</strong>
+  <strong style="font-size: 24px;">Welcome to my GitHub space, where you can explore some of the tools I've mastered and the projects I've successfully completed.</strong>
 </p>
 <p align="center">
-  <strong style="font-size: 20px;">Here, you'll find a showcase of my journey in the world of software development.</strong>
+  <strong style="font-size: 24px;">Here, you'll find a showcase of my journey in the world of software development.</strong>
 </p>
 <p align="center">
-  <strong style="font-size: 20px;">Feel free to browse through my repositories, projects, and contributions.</strong>
+  <strong style="font-size: 24px;">Feel free to browse through my repositories, projects, and contributions.</strong>
 </p>
 
 
@@ -18,7 +18,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo0261&theme=gotham&show_icons=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo0261&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=gotham&hide_border=false" height="195" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo0261&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=gotham&hide_border=false" height="195" alt="languages graph"  />
 ##
 
 <div style="display: inline_block" align="center"><br>
@@ -63,5 +63,5 @@
 </div>
 
 <p align="center">
-<strong>If you have any questions or would like to collaborate, please don't hesitate to reach out. Let's connect and build something amazing together!</strong>
+<strong style="font-size: 24px;">If you have any questions or would like to collaborate, please don't hesitate to reach out. Let's connect and build something amazing together!</strong>
   <p/>
