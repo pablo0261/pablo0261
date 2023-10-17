@@ -17,9 +17,16 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo0261&theme=gotham&show_icons=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo0261&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=gotham&hide_border=false" height="195" alt="languages graph"  />
-##
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pablo0261&theme=gotham&show_icons=true" alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo0261&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=gotham&hide_border=false" height="195" alt="Languages graph" />
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Pablo-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
