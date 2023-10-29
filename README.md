@@ -60,7 +60,9 @@
   <a href="@PabloBesler" target="_blank">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </a>
-</div>
+  <a >
+    <img src="[https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")">
+  </a>
 
 <div align="center">  
 
@@ -72,3 +74,30 @@
 <p align="center">
 <strong style="font-size: 24px;">If you have any questions or would like to collaborate, please don't hesitate to reach out. Let's connect and build something amazing together!</strong>
   <p/>
+
+
+[medium]: https://medium.com/
+[github]: https://github.com/
+[google]: https://www.google.com
+[mdn]: https://developer.mozilla.org/en-US/
+[wiki]: https://en.wikipedia.org/wiki/Main_Page
+[quora]: https://www.quora.com/
+[doc]: https://www.digitalocean.com/community
+[udemy]: https://www.udemy.com/
+[gog]: https://www.geeksforgeeks.org/
+[fcc]: https://www.freecodecamp.org/
+[sof]: https://stackoverflow.com/
+[repo]: https://github.com/codingstella?tab=repositories
+
+<hr />
+
+![](https://img.shields.io/github/followers/pablo0261?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
+
+ ## 💰 You can help me by Donating
+
+<br/>
+ 
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/pablobesler)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
