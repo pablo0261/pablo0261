@@ -1,19 +1,16 @@
-<br>
 <p align="center">
-  <strong style="font-size: 28px;">Hello, I'm Pablo, and I'm currently residing in Brazil. I'm pursuing my full-stack development education at 'SoyHenry.'</strong>
+  <strong style="font-size: 28px;">👋 Hello, I'm Pablo, and I'm currently residing in Brazil. I'm pursuing my full-stack development education at 'SoyHenry.'</strong>
 </p>
 <br>
 <p align="center">
-  <strong style="font-size: 24px;">Welcome to my GitHub space, where you can explore some of the tools I've mastered and the projects I've successfully completed.</strong>
+  <strong style="font-size: 24px;">🚀 Welcome to my GitHub space, where you can explore some of the tools I've mastered and the projects I've successfully completed.</strong>
 </p>
 <p align="center">
-  <strong style="font-size: 24px;">Here, you'll find a showcase of my journey in the world of software development.</strong>
+  <strong style="font-size: 24px;">🌍 Here, you'll find a showcase of my journey in the world of software development.</strong>
 </p>
 <p align="center">
-  <strong style="font-size: 24px;">Feel free to browse through my repositories, projects, and contributions.</strong>
+  <strong style="font-size: 24px;">🔍 Feel free to browse through my repositories, projects, and contributions.</strong>
 </p>
-
-
 <br>
 
 
