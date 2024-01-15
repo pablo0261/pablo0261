@@ -101,6 +101,3 @@
 <br/>
  
   [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/pablobesler)
-
-![Bomba](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fbomba&psig=AOvVaw1TmjSUGLpsVFYXBYHhwB1z&ust=1705171128727000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIimks6_2IMDFQAAAAAdAAAAABAD)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
