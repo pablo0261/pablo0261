@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 28px;">👋 Hello, I'm Pablo, and I'm currently residing in Brazil. I'm pursuing my full-stack development education at 'SoyHenry.'</strong>
+  <strong style="font-size: 28px;">👋 Hello, my name is Pablo, and I specialize in full-stack development with a focus on frontend.</strong>
 </p>
 <br>
 <p align="center">
