@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 28px;">👋 Hello, my name is Pablo, and I specialize in full-stack development with a focus on frontend.</strong>
+  <strong style="font-size: 28px;">👋 Hello, my name is Pablo, and I specialize in full-stack development with a focus on Backend.</strong>
 </p>
 <br>
 <p align="center">
@@ -27,11 +27,13 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Pablo-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pablo-Angular" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
  <img align="center" alt="Pablo-React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Pablo-Redux" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 <img align="center" alt="Pablo-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Pablo-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Pablo-dotnet" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 <img align="center" alt="Pablo-Node" height="70" width="70" src="https://icongr.am/devicon/nodejs-original.svg?size=108&color=currentColor">
 <img align="center" alt="Pablo-Typescript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="Pablo-PostgreSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
