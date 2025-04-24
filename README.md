@@ -32,7 +32,7 @@
 <img align="center" alt="Pablo-Redux" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 <img align="center" alt="Pablo-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Pablo-Oracle" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-<img align="center" alt="Pablo-AWS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="center" alt="Pablo-AWS" height="70" width="70" src="https://www.svgrepo.com/show/372796/aws.svg">
 <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Pablo-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Pablo-dotnet" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
